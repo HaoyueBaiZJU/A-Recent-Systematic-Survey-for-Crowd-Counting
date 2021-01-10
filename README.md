@@ -81,6 +81,13 @@ we review the recent advances with detailed comparisons on three major design mo
 
 ### Performance Evaluation and Metrics
 
+- Accuracy: counting accuracy and location accuracy
+- Quality of density map: resolution and visual quality
+- Complexity: computation complexity and annotation complexity
+- Flexibility and robustness
+
+
+
 
 
 
