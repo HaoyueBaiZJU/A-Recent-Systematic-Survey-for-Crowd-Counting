@@ -5,7 +5,7 @@ Single image crowd counting is a challenging computer vision problem with wide a
 The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 
 
-——————
+***
 
 
 1. Introduction
