@@ -199,6 +199,14 @@ We extract and present some typical images from the public datasets in the follo
 
 
 
+## Reference
+
+@article{bai2020cnn,
+  title={CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal},
+  author={Bai, Haoyue and Chan, S-H Gary},
+  journal={arXiv preprint arXiv:2012.15685},
+  year={2020}
+}
 
 
 
