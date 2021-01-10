@@ -58,7 +58,7 @@ we review the recent advances with detailed comparisons on three major design mo
 
 #### Publicly available datasets
 
-- **NWPU-Crowd** Nwpu-crowd: A large-scale benchmark for crowd counting [[paper](https://arxiv.org/pdf/2001.03360.pdf)]
+- **NWPU-Crowd:** Nwpu-crowd: A large-scale benchmark for crowd counting [[paper](https://arxiv.org/pdf/2001.03360.pdf)]
  
 - UCF_QNRF
 
