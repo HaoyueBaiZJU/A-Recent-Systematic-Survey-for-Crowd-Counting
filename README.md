@@ -52,9 +52,9 @@ we review the recent advances with detailed comparisons on three major design mo
 
 #### Metrics considered to choose datasets
 
-- Image resolution
-- Number of images in the dataset
-- Object count
+- **Image resolution**
+- **Number of images in the dataset**
+- **Object count**
 
 #### Publicly available datasets
 
@@ -81,10 +81,10 @@ we review the recent advances with detailed comparisons on three major design mo
 
 ### Performance Evaluation and Metrics
 
-- Accuracy: counting accuracy and location accuracy
-- Quality of density map: resolution and visual quality
-- Complexity: computation complexity and annotation complexity
-- Flexibility and robustness
+- **Accuracy: counting accuracy and location accuracy**
+- **Quality of density map: resolution and visual quality**
+- **Complexity: computation complexity and annotation complexity**
+- **Flexibility and robustness**
 
 
 
