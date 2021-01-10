@@ -226,7 +226,7 @@ We extract and present some typical images from the public datasets in the follo
 - Focus on semantic consistency for cross-domain crowd understanding [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9054768&casa_token=xBMDLzm0p0oAAAAA:T0ORsXuV6ARNk1RqFIHd2niOHJxu8qxlq_nDL9UFqQJPFyNmPOjq4X2DMKynzNs-zJofcfviuHQ)]
 
 
-## Conclution and Future Directions
+## Conclusion and Future Directions
 
 - Automatic and lightweight network designing
 - Weakly supervised and unsupervised crowd counting
