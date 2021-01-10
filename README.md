@@ -1,4 +1,6 @@
-# A-Recent-Systematic-Survey-for-Crowd-Counting
+# CNN-based Single Image Crowd Counting: Network Design, Loss Function, and Supervisory Signal
+
+The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 
 1. Introduction
 
