@@ -209,9 +209,7 @@ We extract and present some typical images from the public datasets in the follo
   
   journal={arXiv preprint arXiv:2012.15685},
   
-  year={2020}
-  
-}
+  year={2020}}
 
 
 
