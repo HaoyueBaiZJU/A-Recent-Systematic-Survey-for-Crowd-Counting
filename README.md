@@ -35,7 +35,9 @@ The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 #### Density map estimation
 
 
-More recently, crowd counting via density map estimation has emerged as a promising approach with encouraging results. Such approaches achieve high accuracy for crowded scenes and preserve spatial information of people distribution. We summarize by comparing the aforementioned three major crowd counting approaches in the following table. We focus in this survey on crowd counting via density map estimation.
+More recently, crowd counting via density map estimation has emerged as a promising approach with encouraging results. Such approaches achieve high accuracy for crowded scenes and preserve spatial information of people distribution. 
+
+We summarize by comparing the aforementioned three major crowd counting approaches in the following table. 
 
 ![summary](https://github.com/HaoyueBaiZJU/A-Recent-Systematic-Survey-for-Crowd-Counting/blob/master/images/summary.PNG)
 
