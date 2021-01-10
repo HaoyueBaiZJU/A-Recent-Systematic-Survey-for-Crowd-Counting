@@ -46,10 +46,41 @@ we review the recent advances with detailed comparisons on three major design mo
 
 
 
-
 ## Datasets and Performance Evaluation
 
 ### Datasets
+
+#### Metrics considered to choose datasets
+
+- Image resolution
+- Number of images in the dataset
+- Object count
+
+#### Publicly available datasets
+
+- NWPU-Crowd
+Nwpu-crowd: A large-scale benchmark for crowd counting [[paper](https://arxiv.org/pdf/2001.03360.pdf)]
+ 
+- UCF_QNRF
+
+- GCC
+
+- Fudan-ShanghaiTech
+
+- ShanghaiTech A & B
+
+- WorldExpo'10
+
+- UCF_CC_50
+
+- Mall
+
+- UCSD
+
+
+
+
+
 
 ### Performance Evaluation and Metrics
 
