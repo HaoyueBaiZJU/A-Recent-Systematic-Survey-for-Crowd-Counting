@@ -19,7 +19,20 @@ The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 - Towards perspective-free object counting with deep learning [[paper](http://agamenon.tsc.uah.es/Personales/rlopez/docs/eccv2016-onoro.pdf)]
 
 
+#### Detection-based
 
+- Estimating the number of people in crowded scenes by mid based foreground segmentation and head-shoulder detection [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4761705&casa_token=dzAA-G4aQVwAAAAA:8GI1YCkmg5NyAZfT8rP0bQ-eHVD9ONvE_DEpmKBoHKd0ECw1ujCYdmfQCPaO_pcSguMgOgWods8)]
+- Shape-based human detection and segmentation via hierarchical part-template matching [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5374413&casa_token=aZiFsfDQbQUAAAAA:RGNPYi0ICULTEDB5H7ORmGhrIGOKiq4RvogPECLl00R7eQcsmKd-nhB4CxMtuwbmeZ4qP93PalU)]
+- Counting crowded moving objects [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1640823&casa_token=Tszl5nZ5wpwAAAAA:U32Qpr_s8QU3oXPYTnwvmXZcs5A1fN0ziMR35EB7Oop7hUOb_M-ippIcO7ET8gdkbhc5CbfrrHg)]
+
+#### Regression-based
+
+- Bayesian poisson regression for crowd counting [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5459191&casa_token=G4EQj857y4kAAAAA:iO0U-FLzaGA09NE-X_V0P6PGe4Pd_iJFQAnZorJiGPhjPKs34zSdg1KkLHPDKH9c33zSP_FE-Mc)]
+- Counting people with low-level features and Bayesian regression [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6054049&casa_token=pwSFIUIQ2S4AAAAA:FUwna8LcvdjWHeC5Isi3QwFn1WIrEtPH6NsqrMDkMpLQTJiH8akXPQyOOKPxlJtNgwEYRStVCl4)]
+- Deep people counting in extremely dense crowds [[paper](https://dl.acm.org/doi/pdf/10.1145/2733373.2806337?casa_token=Lxw56nvKYkgAAAAA:4h2TKbGy8IyCHETIZiPywOkAQwYPn4fHgYvnmw5hB6Z2odj41O_yCkRCiduAI6pOoY7gZFb6PTCzmko)]
+
+
+#### Density map estimation
 
 
 
