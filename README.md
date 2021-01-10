@@ -10,9 +10,30 @@ The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 
 ## Introduction
 
+#### Crowd counting techniques applied in different domains
+
+- Privacy preserving crowd monitoring: Counting people without people models or tracking [paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)
+- Learning to count objects in images [paper](https://papers.nips.cc/paper/2010/file/fe73f687e5bc5280214e0486b273a5f9-Paper.pdf)
+- Towards perspective-free object counting with deep learning [paper](http://agamenon.tsc.uah.es/Personales/rlopez/docs/eccv2016-onoro.pdf)
 
 
-***
+
+
+
+
+
+
+
+
+
+
+![summary](https://github.com/HaoyueBaiZJU/A-Recent-Systematic-Survey-for-Crowd-Counting/blob/master/images/summary.PNG)
+
+
+we review the recent advances with detailed comparisons on three major design modules for crowd counting: deep neural network designs, loss functions, and supervisory signals.
+
+
+
 
 ## Datasets and Performance Evaluation
 
@@ -21,7 +42,7 @@ The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 ### Performance Evaluation and Metrics
 
 
-***
+
 
 ## Deep Neural Network Design
 
@@ -39,7 +60,7 @@ The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 ### Others
 
 
-***
+
 
 
 ## Loss Function
@@ -92,9 +113,6 @@ Framework
 
 Network Details
 
-
-
-![summary](https://github.com/HaoyueBaiZJU/A-Recent-Systematic-Survey-for-Crowd-Counting/blob/master/images/summary.PNG)
 
 
 
