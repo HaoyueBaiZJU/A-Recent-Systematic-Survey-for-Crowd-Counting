@@ -8,7 +8,11 @@ The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 ***
 
 
-1. Introduction
+# Introduction
+## Introduction
+### Introduction
+#### Introduction
+
 
 Towards perspective-free object counting with deep learning, 2016
 
