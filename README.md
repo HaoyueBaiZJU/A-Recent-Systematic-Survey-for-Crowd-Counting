@@ -60,23 +60,21 @@ we review the recent advances with detailed comparisons on three major design mo
 
 - **NWPU-Crowd:** Nwpu-crowd: A large-scale benchmark for crowd counting [[paper](https://arxiv.org/pdf/2001.03360.pdf)]
  
-- UCF_QNRF
+- **UCF_QNRF:** Composition loss for counting, density map estimation and localization in dense crowds [[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Haroon_Idrees_Composition_Loss_for_ECCV_2018_paper.pdf)]
 
-- GCC
+- **GCC:** Pixel-Wise Crowd Understanding via Synthetic Data [[paper](https://link.springer.com/article/10.1007/s11263-020-01365-4)]
 
-- Fudan-ShanghaiTech
+- **Fudan-ShanghaiTech:** Locality-constrained spatial transformer network for video crowd counting [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8784762&casa_token=CdYHMLvtMU0AAAAA:St2c0vePEbG60JL1EfR70HitY3-9lUgXxwTg1GWDcHtMrX-wNFmzLo_euOpkx0N8nOpd0_EH2YU&tag=1)]
 
-- ShanghaiTech A & B
+- **ShanghaiTech A & B:** Single-image crowd counting via multi-column convolutional neural network [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf)]
 
-- WorldExpo'10
+- **WorldExpo'10:** Cross-scene crowd counting via deep convolutional neural networks [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Cross-Scene_Crowd_Counting_2015_CVPR_paper.pdf)]
 
-- UCF_CC_50
+- **UCF_CC_50:** Multi-source multi-scale counting in extremely dense crowd images [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Idrees_Multi-source_Multi-scale_Counting_2013_CVPR_paper.pdf)]
 
-- Mall
+- **Mall:** Feature mining for localised crowd counting [[paper](http://personal.ie.cuhk.edu.hk/~ccloy/files/bmvc_2012b.pdf)]
 
-- UCSD
-
-
+- **UCSD:** Privacy preserving crowd monitoring: Counting people without people models or tracking [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4587569&casa_token=Abf09f_74XYAAAAA:dx5cS931yoxMMS3mwLVdRsqjVGhATvFkE2ymiW1-rqwcPRPEdBqM-5vFfAXIfiLCNxLmFi4uQfc)]
 
 
 
