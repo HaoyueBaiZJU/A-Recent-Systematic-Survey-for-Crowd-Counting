@@ -12,9 +12,9 @@ The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
 
 #### Crowd counting techniques applied in different domains
 
-- Privacy preserving crowd monitoring: Counting people without people models or tracking [[paper]](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)
-- Learning to count objects in images [[paper]](https://papers.nips.cc/paper/2010/file/fe73f687e5bc5280214e0486b273a5f9-Paper.pdf)
-- Towards perspective-free object counting with deep learning [[paper]](http://agamenon.tsc.uah.es/Personales/rlopez/docs/eccv2016-onoro.pdf)
+- Privacy preserving crowd monitoring: Counting people without people models or tracking [[paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/cvpr08-peoplecnt.pdf)]
+- Learning to count objects in images [[paper](https://papers.nips.cc/paper/2010/file/fe73f687e5bc5280214e0486b273a5f9-Paper.pdf)]
+- Towards perspective-free object counting with deep learning [[paper](http://agamenon.tsc.uah.es/Personales/rlopez/docs/eccv2016-onoro.pdf)]
 
 
 
