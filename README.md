@@ -123,10 +123,9 @@ We extract and present some typical images from the public datasets in the follo
 
 #### Dilated convolution
 
-- Csrnet: Dilated convolutional neural networks for understanding the highly congested scenes [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_CSRNet_Dilated_Convolutional_CVPR_2018_paper.pdf)]
+- An aggregated multicolumn dilated convolution network for perspective-free counting [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Deb_An_Aggregated_Multicolumn_CVPR_2018_paper.pdf)]
 
-- Atrous convolutions spatial pyramid network for crowd counting and density estimation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219304059)]
-
+- Denet: A universal network for counting crowd with varying densities and scales [[paper](https://ieeexplore.ieee.org/document/9088979?denied=)]
 
 #### Deformable convolution
 
@@ -168,14 +167,34 @@ We extract and present some typical images from the public datasets in the follo
 ### Euclidean Loss
 
 
+- Csrnet: Dilated convolutional neural networks for understanding the highly congested scenes [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_CSRNet_Dilated_Convolutional_CVPR_2018_paper.pdf)]
+
+
 ### SSIM Loss
+
+- Crowd counting with deep structured scale integration network [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Crowd_Counting_With_Deep_Structured_Scale_Integration_Network_ICCV_2019_paper.pdf)]
+
+- Cross-Level Parallel Network for Crowd Counting [[paper](https://ieeexplore.ieee.org/document/8798674?denied=)]
 
 ### Adversarial Loss
 
+- Adversarial learning for multiscale crowd counting under complex scenes [[paper](https://ieeexplore.ieee.org/document/8949751?denied=)]
+
+- Atrous convolutions spatial pyramid network for crowd counting and density estimation [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219304059)]
+
 ### Multi-task Learning
+
+- Crowd counting via scale-adaptive convolutional neural network [[paper](https://ieeexplore.ieee.org/document/8354231?denied=)]
+
+- Counting with focus for free [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Shi_Counting_With_Focus_for_Free_ICCV_2019_paper.pdf)]
 
 ### Others
 
+- Learning to count with cnn boosting [[paper](http://courses.cs.tau.ac.il/~wolf/papers/learning-count-cnn.pdf)]
+
+- Nonlinear regression via deep negative correlation learning [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8850209&casa_token=FVYY2_B9ysMAAAAA:uWnIHj1VeeihAtTexyNH6QPe80wyKUshgdhh_a-UKt76MGtg_r-sc0yWC9zxNOHY-hdcS9DPir0&tag=1)]
+
+- From open set to closed set: Counting objects by spatial divide-and-conquer [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_From_Open_Set_to_Closed_Set_Counting_Objects_by_Spatial_ICCV_2019_paper.pdf)]
 
 
 ## Supervisory Signal
@@ -183,18 +202,35 @@ We extract and present some typical images from the public datasets in the follo
 
 ### Fully Supervised Learning
 
+- Adaptive density map generation for crowd counting [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wan_Adaptive_Density_Map_Generation_for_Crowd_Counting_ICCV_2019_paper.pdf)]
+
+- Bayesian loss for crowd count estimation with point supervision [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Bayesian_Loss_for_Crowd_Count_Estimation_With_Point_Supervision_ICCV_2019_paper.pdf)]
+
 ### Weakly Supervised and Semi-supervised Learning
+
+- Ha-ccn: Hierarchical attention-based crowd counting network [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8767009&casa_token=FROykBlRwNQAAAAA:rnRBQiPPKllwdUpCitTg--2glKonx7zi2sBHmz8A3Dw1P0VgRJlje1HVwSjQat2Jx9JpJX8jaeE)]
+
+- Generalizing semi-supervised generative adversarial networks to regression using feature contrasting [[paper](https://www.sciencedirect.com/science/article/pii/S1077314219300955?casa_token=Ma91MYkXZq8AAAAA:2xoOFAH4xvZmyNQND6eQLhNTZW5i_T5BZJmbJbVr9a2rqASxijHs9YO7ocpOHquNQuz8GdCoTF98)]
+
 
 ### Unsupervised and Self-supervised Learning
 
+- Almost unsupervised learning for dense crowd counting [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4914)]
+
+- Leveraging unlabeled data for crowd counting by learning to rank [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Leveraging_Unlabeled_Data_CVPR_2018_paper.pdf)]
+
 ### Automatic Labeling through Synthetic Data
+
+- Learning from synthetic data for crowd counting in the wild [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_From_Synthetic_Data_for_Crowd_Counting_in_the_Wild_CVPR_2019_paper.pdf)]
+
+- Focus on semantic consistency for cross-domain crowd understanding [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9054768&casa_token=xBMDLzm0p0oAAAAA:T0ORsXuV6ARNk1RqFIHd2niOHJxu8qxlq_nDL9UFqQJPFyNmPOjq4X2DMKynzNs-zJofcfviuHQ)]
 
 
 ## Conclution and Future Directions
 
-- Automatic and lightweight network designing.
-- Weakly supervised and unsupervised crowd counting.
-- Crowd counting in videos.
+- Automatic and lightweight network designing
+- Weakly supervised and unsupervised crowd counting
+- Crowd counting in videos
 - Multi-view fusion for crowd counting
 
 
