@@ -22,6 +22,8 @@ Network Details
 
 
 
+![summary](https://github.com/HaoyueBaiZJU/A-Recent-Systematic-Survey-for-Crowd-Counting/blob/master/images/summary.PNG)
+
 
 
 ![dataset](https://github.com/HaoyueBaiZJU/A-Recent-Systematic-Survey-for-Crowd-Counting/blob/master/images/dataset.PNG)
