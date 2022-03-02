@@ -1,4 +1,4 @@
-# CNN-based Single Image Crowd Counting: Network Design, Loss Function, and Supervisory Signal
+# A Survey on Deep Learning-based Single Image Crowd Counting: Network Design, Loss Function, and Supervisory Signal
 
 - Single image crowd counting is a challenging computer vision problem with wide applications in public safety, city planning, traffic management, etc. 
 - This survey is to provide a comprehensive summary of recent advanced crowd counting techniques based on Convolutional Neural Network (CNN) via density map estimation. 
