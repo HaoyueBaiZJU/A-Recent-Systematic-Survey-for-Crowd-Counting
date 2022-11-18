@@ -1,10 +1,10 @@
-# A Survey on Deep Learning-based Single Image Crowd Counting: Network Design, Loss Function, and Supervisory Signal
+# A survey on deep learning-based single image crowd counting: Network design, loss function and supervisory signal
 
 - Single image crowd counting is a challenging computer vision problem with wide applications in public safety, city planning, traffic management, etc. 
 - This survey is to provide a comprehensive summary of recent advanced crowd counting techniques based on Convolutional Neural Network (CNN) via density map estimation. 
 - Our goals are to provide an up-to-date review of recent approaches, and educate new researchers in this field the design principles and trade-offs.
 
-The arXiv paper can be found at [paper](https://arxiv.org/pdf/2012.15685.pdf)
+Our long survey paper (23 pages) is accepted to Neurocomputing 2022 [paper](https://arxiv.org/pdf/2012.15685.pdf)
 
 
 ***
@@ -238,11 +238,13 @@ We extract and present some typical images from the public datasets in the follo
 If you find this work or code useful, please cite:
 
 ```
-@article{bai2020cnn,
-  title={CNN-based Single Image Crowd Counting: Network Design, Loss Function and Supervisory Signal},
-  author={Bai, Haoyue and Chan, S-H Gary},
-  journal={arXiv preprint arXiv:2012.15685},
-  year={2020}}
+@article{bai2022survey,
+  title={A survey on deep learning-based single image crowd counting: Network design, loss function and supervisory signal},
+  author={Bai, Haoyue and Mao, Jiageng and Chan, S-H Gary},
+  journal={Neurocomputing},
+  year={2022},
+  publisher={Elsevier}
+}
 ```
 
 
